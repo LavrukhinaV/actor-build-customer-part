@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/actor-build-customer-part/static/css/main.e7422b3f.css",
-    "main.js": "/actor-build-customer-part/static/js/main.39a8ed89.js",
+    "main.css": "/actor-build-customer-part/static/css/main.ac172f37.css",
+    "main.js": "/actor-build-customer-part/static/js/main.c738d244.js",
     "static/js/787.92d48939.chunk.js": "/actor-build-customer-part/static/js/787.92d48939.chunk.js",
     "static/media/profile-photo.png": "/actor-build-customer-part/static/media/profile-photo.f502371b9245c7b76ee1.png",
     "static/media/Inter-SemiBold.woff?v=3.19": "/actor-build-customer-part/static/media/Inter-SemiBold.cca62d21c8c555c392e5.woff",
@@ -92,12 +92,12 @@
     "static/media/tick.svg": "/actor-build-customer-part/static/media/tick.d351abc496d086830e00.svg",
     "static/media/checked.svg": "/actor-build-customer-part/static/media/checked.dc1c375fa19696adf3a7.svg",
     "static/media/unchecked.svg": "/actor-build-customer-part/static/media/unchecked.638023e90ab08fa3ef3a.svg",
-    "main.e7422b3f.css.map": "/actor-build-customer-part/static/css/main.e7422b3f.css.map",
-    "main.39a8ed89.js.map": "/actor-build-customer-part/static/js/main.39a8ed89.js.map",
+    "main.ac172f37.css.map": "/actor-build-customer-part/static/css/main.ac172f37.css.map",
+    "main.c738d244.js.map": "/actor-build-customer-part/static/js/main.c738d244.js.map",
     "787.92d48939.chunk.js.map": "/actor-build-customer-part/static/js/787.92d48939.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e7422b3f.css",
-    "static/js/main.39a8ed89.js"
+    "static/css/main.ac172f37.css",
+    "static/js/main.c738d244.js"
   ]
 }
