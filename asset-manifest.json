@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/actor-build-customer-part/static/css/main.ac172f37.css",
-    "main.js": "/actor-build-customer-part/static/js/main.c738d244.js",
+    "main.css": "/actor-build-customer-part/static/css/main.e3a2d725.css",
+    "main.js": "/actor-build-customer-part/static/js/main.6d032260.js",
     "static/js/787.92d48939.chunk.js": "/actor-build-customer-part/static/js/787.92d48939.chunk.js",
     "static/media/profile-photo.png": "/actor-build-customer-part/static/media/profile-photo.f502371b9245c7b76ee1.png",
     "static/media/Inter-SemiBold.woff?v=3.19": "/actor-build-customer-part/static/media/Inter-SemiBold.cca62d21c8c555c392e5.woff",
@@ -10,6 +10,7 @@
     "static/media/Inter-Black.woff?v=3.19": "/actor-build-customer-part/static/media/Inter-Black.c6938660eec019fefd68.woff",
     "static/media/Inter-Regular.woff?v=3.19": "/actor-build-customer-part/static/media/Inter-Regular.8c206db99195777c6769.woff",
     "static/media/12213860-R3L8T8D-1000-first-1000x656.jpeg": "/actor-build-customer-part/static/media/12213860-R3L8T8D-1000-first-1000x656.461f72cbf28f57db1271.jpeg",
+    "static/media/Welcome.png": "/actor-build-customer-part/static/media/Welcome.8b0c985442574a0c13d2.png",
     "static/media/1639608254_18-sportishka-com-p-balerini-sport-krasvivo-foto-18.jpeg": "/actor-build-customer-part/static/media/1639608254_18-sportishka-com-p-balerini-sport-krasvivo-foto-18.85762eb5639a801c5c2c.jpeg",
     "static/media/Inter-Medium.woff2?v=3.19": "/actor-build-customer-part/static/media/Inter-Medium.293fd13dbca5a3e450ef.woff2",
     "static/media/Inter-SemiBold.woff2?v=3.19": "/actor-build-customer-part/static/media/Inter-SemiBold.b5f0f109bc88052d4000.woff2",
@@ -22,9 +23,7 @@
     "static/media/2.png": "/actor-build-customer-part/static/media/2.b2b2e3c0945de715be8d.png",
     "static/media/0322677657827.576196ed3f102.jpg": "/actor-build-customer-part/static/media/0322677657827.576196ed3f102.1c2e508f011e701a408c.jpg",
     "static/media/Advertising.png": "/actor-build-customer-part/static/media/Advertising.27d8d2725dae267ad3d7.png",
-    "static/media/Welcome.png": "/actor-build-customer-part/static/media/Welcome.e17b2b9afe36da8f62f9.png",
     "static/media/3.png": "/actor-build-customer-part/static/media/3.89b3c01b46fd5a013f54.png",
-    "static/media/WelcomeMobile.png": "/actor-build-customer-part/static/media/WelcomeMobile.6582c0773d01ce0869a1.png",
     "static/media/gols-stars.svg": "/actor-build-customer-part/static/media/gols-stars.25ded8328763e44b252b.svg",
     "static/media/grey-stars.svg": "/actor-build-customer-part/static/media/grey-stars.9544aac1fa3497515e37.svg",
     "static/media/Instagram.svg": "/actor-build-customer-part/static/media/Instagram.1c6b265ff879653039ccfcea2571daa8.svg",
@@ -46,6 +45,7 @@
     "static/media/info-icon.svg": "/actor-build-customer-part/static/media/info-icon.09d62a1e616922fd25c9.svg",
     "static/media/photo-icon.svg": "/actor-build-customer-part/static/media/photo-icon.1f17f56a535f01d399eb.svg",
     "static/media/profile-icon.svg": "/actor-build-customer-part/static/media/profile-icon.a1f818fd595090d176773d0cceeacc05.svg",
+    "static/media/profile-photo-icon.svg": "/actor-build-customer-part/static/media/profile-photo-icon.ae137e94c651a3dcac0b.svg",
     "static/media/calendar.svg": "/actor-build-customer-part/static/media/calendar.1769565b93b369901d1e.svg",
     "static/media/new-notice-icon.svg": "/actor-build-customer-part/static/media/new-notice-icon.da4d571a87b4f10c39ef.svg",
     "static/media/YouTube.svg": "/actor-build-customer-part/static/media/YouTube.2215ebee6416dfb0a89e78e91f0c43f4.svg",
@@ -59,6 +59,7 @@
     "static/media/loupe.svg": "/actor-build-customer-part/static/media/loupe.1950f5b89df46bf16f28.svg",
     "static/media/cast-success-icon.svg": "/actor-build-customer-part/static/media/cast-success-icon.90542e51ac1feb814630.svg",
     "static/media/Register-tick.svg": "/actor-build-customer-part/static/media/Register-tick.f0c578d3154debb0835c.svg",
+    "static/media/profile-image-icon.svg": "/actor-build-customer-part/static/media/profile-image-icon.4101e3f706c3091d42b6.svg",
     "static/media/button-close-popup.svg": "/actor-build-customer-part/static/media/button-close-popup.67b13442c4c48e31a94a.svg",
     "static/media/close-profile-menu-button.svg": "/actor-build-customer-part/static/media/close-profile-menu-button.0edc7aab111864515a29.svg",
     "static/media/password-lock.svg": "/actor-build-customer-part/static/media/password-lock.1b149eb35a540000417d.svg",
@@ -92,12 +93,12 @@
     "static/media/tick.svg": "/actor-build-customer-part/static/media/tick.d351abc496d086830e00.svg",
     "static/media/checked.svg": "/actor-build-customer-part/static/media/checked.dc1c375fa19696adf3a7.svg",
     "static/media/unchecked.svg": "/actor-build-customer-part/static/media/unchecked.638023e90ab08fa3ef3a.svg",
-    "main.ac172f37.css.map": "/actor-build-customer-part/static/css/main.ac172f37.css.map",
-    "main.c738d244.js.map": "/actor-build-customer-part/static/js/main.c738d244.js.map",
+    "main.e3a2d725.css.map": "/actor-build-customer-part/static/css/main.e3a2d725.css.map",
+    "main.6d032260.js.map": "/actor-build-customer-part/static/js/main.6d032260.js.map",
     "787.92d48939.chunk.js.map": "/actor-build-customer-part/static/js/787.92d48939.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ac172f37.css",
-    "static/js/main.c738d244.js"
+    "static/css/main.e3a2d725.css",
+    "static/js/main.6d032260.js"
   ]
 }
