@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/actor-build-customer-part/static/css/main.9d78ed63.css",
-    "main.js": "/actor-build-customer-part/static/js/main.c2df7eee.js",
+    "main.css": "/actor-build-customer-part/static/css/main.e3533199.css",
+    "main.js": "/actor-build-customer-part/static/js/main.c68b0265.js",
     "static/js/787.92d48939.chunk.js": "/actor-build-customer-part/static/js/787.92d48939.chunk.js",
     "static/media/profile-photo.png": "/actor-build-customer-part/static/media/profile-photo.f502371b9245c7b76ee1.png",
     "static/media/Inter-SemiBold.woff?v=3.19": "/actor-build-customer-part/static/media/Inter-SemiBold.cca62d21c8c555c392e5.woff",
@@ -51,6 +51,7 @@
     "static/media/YouTube.svg": "/actor-build-customer-part/static/media/YouTube.2215ebee6416dfb0a89e78e91f0c43f4.svg",
     "static/media/balance-icon.svg": "/actor-build-customer-part/static/media/balance-icon.bf71c78bd822345e27a0303f77343168.svg",
     "static/media/bell-icon.svg": "/actor-build-customer-part/static/media/bell-icon.7c3a9e59a6a6ea4c5924.svg",
+    "static/media/warning-icon.svg": "/actor-build-customer-part/static/media/warning-icon.1eb3dd0f59f078b9708c.svg",
     "static/media/chat-icon.svg": "/actor-build-customer-part/static/media/chat-icon.ed52c251c195747dde3b.svg",
     "static/media/Star.svg": "/actor-build-customer-part/static/media/Star.b5c731a15e1b82dc8e42.svg",
     "index.html": "/actor-build-customer-part/index.html",
@@ -93,12 +94,12 @@
     "static/media/tick.svg": "/actor-build-customer-part/static/media/tick.d351abc496d086830e00.svg",
     "static/media/checked.svg": "/actor-build-customer-part/static/media/checked.dc1c375fa19696adf3a7.svg",
     "static/media/unchecked.svg": "/actor-build-customer-part/static/media/unchecked.638023e90ab08fa3ef3a.svg",
-    "main.9d78ed63.css.map": "/actor-build-customer-part/static/css/main.9d78ed63.css.map",
-    "main.c2df7eee.js.map": "/actor-build-customer-part/static/js/main.c2df7eee.js.map",
+    "main.e3533199.css.map": "/actor-build-customer-part/static/css/main.e3533199.css.map",
+    "main.c68b0265.js.map": "/actor-build-customer-part/static/js/main.c68b0265.js.map",
     "787.92d48939.chunk.js.map": "/actor-build-customer-part/static/js/787.92d48939.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9d78ed63.css",
-    "static/js/main.c2df7eee.js"
+    "static/css/main.e3533199.css",
+    "static/js/main.c68b0265.js"
   ]
 }
